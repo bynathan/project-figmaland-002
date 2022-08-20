@@ -1,0 +1,24 @@
+/* MAIN HOME */
+
+#main-one a:hover{
+    color: #2091F9;
+    border: 2px solid #2091F9;
+    background-color: #ffffff;
+}
+
+#main-one img:hover {
+    transform: scale(0.87);
+}
+
+/* MAIN TWO */
+
+.main-two-grid a:hover{
+    color: #252B42;
+}
+
+/* MAIN FOR */
+
+#main-for-button-subscribe:hover{
+    color: #2091F9;
+    background-color: #ffffff;
+}
