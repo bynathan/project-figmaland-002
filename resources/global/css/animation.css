@@ -23,3 +23,18 @@
     border-color: #ffffff;
     background-color: #ffffff;
 }
+
+.footer-img-one:hover {
+    opacity: 100%;
+    transform: scale(1.15);
+}
+
+.footer-img-two:hover {
+    opacity: 100%;
+    transform: scale(1.15);
+}
+
+.footer-img-tree:hover {
+    opacity: 100%;
+    transform: scale(1.15);
+}

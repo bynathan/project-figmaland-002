@@ -9,7 +9,7 @@
 }
 
 #main-one h1{
-    font-size: 60px;
+    font-size: 55px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     color: #252B42;
@@ -18,7 +18,7 @@
 }
 
 #main-one h2{
-    font-size: 22px;
+    font-size: 21px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     color: #737373;
@@ -37,7 +37,7 @@
 #main-one a {
     text-decoration: none;
     color: #ffffff;
-    font-size: 15px;
+    font-size: 13px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     background-color: #2091F9;
@@ -74,7 +74,7 @@
 }
 
 #main-two h1 {
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     color: #252B42;
@@ -174,7 +174,7 @@
 
 .main-tree-items-one h2{
     color: #2091F9;
-    font-size: 25px;
+    font-size: 26px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     margin-bottom: 10px;
@@ -182,14 +182,14 @@
 
 .main-tree-items-one h1{
     color: #252B42;
-    font-size: 40px;
+    font-size: 35px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
 
 .main-tree-items-one p{
     color: #737373;
-    font-size: 23px;
+    font-size: 19px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     margin-bottom: 10px;
@@ -208,7 +208,7 @@
 
 .main-tree-items-two h2{
     color: #2091F9;
-    font-size: 25px;
+    font-size: 26px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     margin-bottom: 10px;
@@ -216,14 +216,14 @@
 
 .main-tree-items-two h1{
     color: #252B42;
-    font-size: 40px;
+    font-size: 35px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
 
 .main-tree-items-two p{
     color: #737373;
-    font-size: 23px;
+    font-size: 19px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     margin-bottom: 10px;
@@ -238,7 +238,7 @@
 
 .main-tree-items-tree h2{
     color: #2091F9;
-    font-size: 25px;
+    font-size: 26px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     margin-bottom: 10px;
@@ -246,14 +246,14 @@
 
 .main-tree-items-tree h1{
     color: #252B42;
-    font-size: 40px;
+    font-size: 35px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
 
 .main-tree-items-tree p{
     color: #737373;
-    font-size: 23px;
+    font-size: 19px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     margin-bottom: 10px;
@@ -307,7 +307,7 @@
 #main-for-input-email {
     background-color: #EFEFEF;
     height: 50px;
-    width: 288px;
+    width: 285px;
     border-radius: 5px;
     padding-left: 10px;
     font-size: 14px;
